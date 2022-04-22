@@ -1,2 +1,3 @@
+
 main:
 	g++ ./fail.cpp
